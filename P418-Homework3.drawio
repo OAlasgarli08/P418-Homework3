@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-09T18:21:14.476Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/100.0.0.0" etag="jB6o6P84t0betXzwG_KA" version="21.7.2" type="google">
+<mxfile host="app.diagrams.net" modified="2023-09-09T20:38:39.119Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/100.0.0.0" etag="kh16nnUL-4o8L0Rc3l6f" version="21.7.4" type="google">
   <diagram name="Page-1" id="0WUXbRoVajlm8tEHa8A8">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -160,13 +160,13 @@
         <mxCell id="B21Qet_ijoeuQAIXPdbF-45" value="true" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B21Qet_ijoeuQAIXPdbF-42" target="B21Qet_ijoeuQAIXPdbF-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B21Qet_ijoeuQAIXPdbF-42" value="i = int()" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="B21Qet_ijoeuQAIXPdbF-42" value="i%2==0 || i%2==1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="855" y="590" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="B21Qet_ijoeuQAIXPdbF-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B21Qet_ijoeuQAIXPdbF-44" target="B21Qet_ijoeuQAIXPdbF-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B21Qet_ijoeuQAIXPdbF-44" value="is a simple number" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="B21Qet_ijoeuQAIXPdbF-44" value="is a complex number" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="835" y="720" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="B21Qet_ijoeuQAIXPdbF-46" value="end" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
